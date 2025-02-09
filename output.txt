@@ -1,0 +1,118 @@
+[lulus_kuliah][4 tahun]
+
+                        [on_track_1][0 tahun]
+
+                                                   [java_developer][0 tahun]
+                                                    - programming_logic
+                                                    - java_language
+                                                    - java_programming
+
+                                                   [junior_software_engineer][0 tahun]
+                                                    - programming
+                                                    - programming_language
+                                                    - software_engineering
+
+                        [on_track_2][0 tahun]
+
+                                                   [junior_ux_designer][0 tahun]
+                                                    - ux_concept
+                                                    - ux_design
+                                                    - color_concept
+
+                                                                                       [ux_architecture_designer][0 tahun]
+                                                                                        - ux_design
+                                                                                        - ux_architecture_concept
+                                                                                        - ux_architecture_engineering
+
+                                                                                                                           [ux_architecture_senior][0 tahun]
+                                                                                                                            - ux_architecture_management
+                                                                                                                            - ux_architecture_agile
+                                                                                                                            - ux_architecture_best_practice
+
+                                                                                                                           [ux_architecture_manager][0 tahun]
+                                                                                                                            - ux_architecture_decision_making
+                                                                                                                            - ux_architecture_advanced_best_practice
+                                                                                                                            - ux_architecture_super_agile
+
+                        [switch_career_1][0 tahun]
+
+                                                   [ilustrator][5 tahun]
+                                                    - basic_ilustration
+                                                    - color_ilustration
+                                                    - style_ilustration
+                                                    - background_ilustration
+                                                    - ilustration_field
+
+                                                                                       [junior_ilustrator][0 tahun]
+                                                                                        - basic_ilustration
+
+                                                                                       [story_book_ilustrator][3 tahun]
+                                                                                        - story_writing
+                                                                                        - ilustration_drawing
+                                                                                        - ilustration_field
+
+                                                                                                                           [popular_story_book_ilustrator][5 tahun]
+                                                                                                                            - internet_marketing
+                                                                                                                            - gain_follower
+                                                                                                                            - content_creator
+
+                                                                                                                                                                     [animator][5 tahun]
+                                                                                                                                                                      - motion_picture_concept
+                                                                                                                                                                      - animation_field
+
+                                                                                                                                                                     [publisher_ceo][5 tahun]
+                                                                                                                                                                      - capital
+                                                                                                                                                                      - market_target
+
+                        [on_track_3][0 tahun]
+
+                                                   [computer_science_lecture][2 tahun]
+                                                    - master_education
+
+                        [switch_career_2][0 tahun]
+
+                                                   [chef][5 tahun]
+                                                    - basic_cooking
+                                                    - selling
+                                                    - efficient_cooking
+
+                        [switch_career_3][0 tahun]
+
+                                                   [farmer][5 tahun]
+                                                    - basic_planting
+                                                    - plant_disease
+                                                    - plant_pests
+
+[lulus_kuliah][4 tahun]
+
+                        [switch_career_1][0 tahun]
+
+                                                   [ilustrator][5 tahun]
+                                                    - basic_ilustration
+                                                    - color_ilustration
+                                                    - style_ilustration
+                                                    - background_ilustration
+                                                    - ilustration_field
+
+                                                                             [junior_ilustrator][0 tahun]
+                                                                              - basic_ilustration
+
+                                                                             [story_book_ilustrator][3 tahun]
+                                                                              - story_writing
+                                                                              - ilustration_drawing
+                                                                              - ilustration_field
+
+                                                                                                              [popular_story_book_ilustrator][5 tahun]
+                                                                                                               - internet_marketing
+                                                                                                               - gain_follower
+                                                                                                               - content_creator
+
+                                                                                                                                                       [animator][5 tahun]
+                                                                                                                                                        - motion_picture_concept
+                                                                                                                                                        - animation_field
+
+                                                                                                                                                       [publisher_ceo][5 tahun]
+                                                                                                                                                        - capital
+                                                                                                                                                        - market_target
+
+Untuk menjadi animator dibutuhkan waktu 22 tahun.
